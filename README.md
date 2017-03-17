@@ -15,5 +15,5 @@ As the name implies it, the repository contains a *simplist* terminal simulator 
 * `Rmdir` file name
 
 _Note:_ 
-- Commands without no specification work in/with the current directory.
+- Commands with no target work in/with the current directory.
 - Only the `cd` command takes a slighlty more complex path (as it should). The rest of them, do work only in the current directory.
