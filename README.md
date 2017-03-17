@@ -1,4 +1,4 @@
-# Unix Terminal Simulator
+# An Unix Terminal Simulator
 
 ## C#
 ------
