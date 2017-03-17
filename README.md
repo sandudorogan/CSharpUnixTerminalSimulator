@@ -6,7 +6,7 @@
 * `Echo` message
 * `Echo` message > file
 * `Cd` path
-* `Ls` current directory
+* `Ls` 
 * `Touch` file name
 * `Mkdir` file name
 * `Tree`
